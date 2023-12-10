@@ -13,3 +13,17 @@ Some of the questions answered in this analysis include:
 10. DOES THE HOURLYRATE/MONTHLY RATE/MONTHLY INCOME/DAILYRATE RESULT TO EMPLOYEE ATTRITION?
 
     INSIGHTS UNCOVERED:
+    
+- Average age all employees is 37 years.
+- 237 employees have left the company out of 1470, there are 1233 employees currently
+- Employees with a Life Science Education Field background are the highest in attrition, while human resources employees are least
+- Employees who travelled rarely are the highest in attrition rate
+- Research and Development Department had the highest attrition rate
+- Male employees had the highest attrition rate compared to their femail counterparts
+- Employees with the Laboratory Technician role had the highest attrition rate
+- Employees with single status had the highest attrition rate
+- Employees who worked overtime had the highest attrition rate
+- Employees with the least hourlyrate, monthlyrate,dailyrate/monthlyincome have the highest attrition rate
+
+    RECOMMENDATIONS TO REDUCE EMPLOYEE ATTRITION
+  
